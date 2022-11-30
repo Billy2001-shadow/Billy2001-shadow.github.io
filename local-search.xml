@@ -4,24 +4,65 @@
   
   
   <entry>
-    <title>test write</title>
-    <link href="/2022/11/30/test-write/"/>
-    <url>/2022/11/30/test-write/</url>
+    <title>test_picture</title>
+    <link href="/2022/11/30/test-picture/"/>
+    <url>/2022/11/30/test-picture/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<figure class="highlight gauss"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs gauss">使用命令<br>hexo <span class="hljs-keyword">new</span>[layout] &lt;<span class="hljs-built_in">title</span>&gt; 命令创建新文章时自动创建一个文件夹。这个资源文件夹将会有与这个文章文件一样的名字。将所有与你的文章有关的资源放在这个关联文件夹中之后，你可以通过相对路径来引用它们，这样你就得到了一个更简单而且方便得多的工作流。<br></code></pre></td></tr></table></figure><img src="/2022/11/30/test-picture/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%871.jpg" class="" title="This is an example image"><figure class="highlight maxima"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs maxima">&#123;<span class="hljs-symbol">%</span> asset_img 测试图片<span class="hljs-number">1.</span>jpg This <span class="hljs-built_in">is</span> an <span class="hljs-built_in">example</span> <span class="hljs-built_in">image</span> <span class="hljs-symbol">%</span>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
     
+    <categories>
+      
+      <category>测试文章</category>
+      
+      <category>参照教程的测试文章</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试图片是否可用</tag>
+      
+    </tags>
     
   </entry>
   
   
   
   <entry>
-    <title>测试文章</title>
+    <title>这是一篇测试文章</title>
     <link href="/2022/11/30/test/"/>
     <url>/2022/11/30/test/</url>
     
-    <content type="html"><![CDATA[<p>上面这个是yaml格式的</p><h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1><h2 id="第二级标题"><a href="#第二级标题" class="headerlink" title="第二级标题"></a>第二级标题</h2><h3 id="第三级标题"><a href="#第三级标题" class="headerlink" title="第三级标题"></a>第三级标题</h3><h4 id="第四级标题"><a href="#第四级标题" class="headerlink" title="第四级标题"></a>第四级标题</h4><h5 id="第五级标题"><a href="#第五级标题" class="headerlink" title="第五级标题"></a>第五级标题</h5><h6 id="第六级标题"><a href="#第六级标题" class="headerlink" title="第六级标题"></a>第六级标题</h6><p>正文</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c++">cout &lt;&lt; hello world &lt;&lt; endl;<br><span class="hljs-keyword">return</span> <span class="hljs-number">0</span><br></code></pre></td></tr></table></figure><table><thead><tr><th>第一行第一列</th><th>第一行第二列</th><th>第一行第三列</th></tr></thead><tbody><tr><td>第二行第一列</td><td>第二行第二列</td><td>第二行第三列</td></tr><tr><td>第三行第一列</td><td>第三行第二列</td><td>第三行第三列</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h1 id="这里是第一级标题"><a href="#这里是第一级标题" class="headerlink" title="这里是第一级标题"></a>这里是第一级标题</h1><h2 id="这里是第二级标题"><a href="#这里是第二级标题" class="headerlink" title="这里是第二级标题"></a>这里是第二级标题</h2><h3 id="这里是第三级标题"><a href="#这里是第三级标题" class="headerlink" title="这里是第三级标题"></a>这里是第三级标题</h3><h4 id="引用块的使用"><a href="#引用块的使用" class="headerlink" title="引用块的使用"></a>引用块的使用</h4><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><p>David Levithan, Wide Awake</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>测试文章</category>
+      
+      <category>参照教程的测试文章</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试标签</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test write</title>
+    <link href="/2022/11/30/test-write/"/>
+    <url>/2022/11/30/test-write/</url>
+    
+    <content type="html"><![CDATA[]]></content>
     
     
     
@@ -39,10 +80,18 @@
     
     <categories>
       
-      <category>测试博客</category>
+      <category>测试文章</category>
+      
+      <category>官方测试文章</category>
       
     </categories>
     
+    
+    <tags>
+      
+      <tag>测试标签</tag>
+      
+    </tags>
     
   </entry>
   
